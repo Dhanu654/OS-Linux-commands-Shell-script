@@ -1,5 +1,5 @@
-# OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
+
+# Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
@@ -1043,6 +1043,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
+![368682485-ac5a4a45-d04b-4748-ab7f-c6b5e1d6d381](https://github.com/user-attachments/assets/04a38b20-30bb-4b54-927d-8842e67091d0)
 
 
 $ ./exread1.sh 
@@ -1063,6 +1064,8 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+![368682576-ad721d8a-b4ae-4eab-81fa-8cef958b6421](https://github.com/user-attachments/assets/f15a86c6-be28-446b-b2d5-7f3821015806)
+
  ./funcex.sh 
 
  
@@ -1080,6 +1083,7 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
+
 $ ./argshift.sh 1 2 3
  
  cat argshift1.sh
@@ -1097,6 +1101,9 @@ done
 ```
 $ chmod 777 argshift.sh
 ## OUTPUT
+![368682791-24b06404-63f9-4358-8f23-ba80165d2f22](https://github.com/user-attachments/assets/18e60d1f-776a-4a7e-8316-ff69c33da2b6)
+
+
 $ ./argshift.sh 1 2 3
  
 cat argshift.sh
@@ -1110,6 +1117,9 @@ done
 set +x
 ```
 ## OUTPUT
+![368682863-4d226e69-fd6b-4322-8e04-359eccb5b146](https://github.com/user-attachments/assets/7d1cbabd-17ba-4a90-bbd7-b4378f77b2b1)
+
+
  ./argshift.sh 1 2 3
  
  
@@ -1142,6 +1152,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
+![368682925-0913aaaf-815c-43e5-8a68-67d378785123](https://github.com/user-attachments/assets/e019daf5-3e1e-49d0-aeed-08c4e2b63b9e)
+
  
 cat > palindrome.sh
 ```bash
@@ -1170,6 +1182,8 @@ fi
 ```
 ## OUTPUT 
 
+![368682998-892623f1-936a-4c9a-8fb0-6bdfcf70f9ab](https://github.com/user-attachments/assets/4cd08ae0-2c7d-4281-b7e4-35888616d823)
+![368683019-1acacb37-ab32-4a18-85f8-90048c3b8bcd](https://github.com/user-attachments/assets/d0f0d428-0244-4688-8dca-7969324da3a2)
 
 # RESULT:
 The Commands are executed successfully.
